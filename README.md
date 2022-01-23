@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋,Ashish Biswas here! Striving while utilising both the logical and the creative part of the brain!</h1>
+<h1 align="center">Hey👋,Ashish Biswas here! Striving while utilising both the logical and the creative part of the brain!</h1>
 <h3 align="center">Senior Project Manager Globetrotter/Wanderer | Adventurer | Shutterbug/Content Creator | Productive, Proactive and Organized!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-ab&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-ab" /> </p>
@@ -9,7 +9,7 @@
 
 - 👯 Let's collaborate and **create cool websites!**
 
-- 😎 Passionate about learning new technologies, magnify and contributing skills and sharing my knowledge with others as publicly as possible **Communicatively strong person always looking ahead in the future**
+- 😎 Passionate about learning new technologies, magnify and contributing skills and sharing my knowledge with others as publicly as possible.**Communicatively strong person always looking ahead in the future**
 
 - 👨‍💻 Ask me about anything and everything. [I will be happy to help!](I will be happy to help!)
 
