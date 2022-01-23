@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋,Ashish Biswas here! </h1>
 <h3 align="center">Senior Project Manager Globetrotter/Wanderer | Adventurer | Shutterbug/Content Creator | Productive, Proactive and Organized!</h3>
-<img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/36ddd276339625.5c66944c27cd5.gif">
+<img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/36ddd276339625.5c66944c27cd5.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-ab&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-ab" /> </p>
 
 - 🔭 Currently working on **something cool.**
