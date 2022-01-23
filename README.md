@@ -1,4 +1,4 @@
-[![MasterHead](https://www.claromentis.com/wp-content/uploads/2016/02/boosting-productivity.png)]
+![MasterHead](https://www.claromentis.com/wp-content/uploads/2016/02/boosting-productivity.png)
 <h1 align="center">Hey👋,Ashish Biswas here! </h1>
 <h3 align="center">Senior Project Manager Globetrotter/Wanderer | Adventurer | Shutterbug/Content Creator | Productive, Proactive and Organized!</h3>
 <img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/36ddd276339625.5c66944c27cd5.gif"/>
