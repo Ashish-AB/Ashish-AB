@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋,Ashish Biswas here! Striving while utilising both the logical and the creative part of the brain!</h1>
+<h1 align="center">Hey👋,Ashish Biswas here! </h1>
 <h3 align="center">Senior Project Manager Globetrotter/Wanderer | Adventurer | Shutterbug/Content Creator | Productive, Proactive and Organized!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-ab&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-ab" /> </p>
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ashish.biswas@synchsoft.in**
 
-- ⚡ Fun fact **I'm a**
+- ⚡ Fun fact **I strive while utilising both the logical and the creative part of the brain!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
