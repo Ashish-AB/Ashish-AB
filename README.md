@@ -11,7 +11,7 @@
 
 - 😎 Passionate about learning new technologies, magnify and contributing skills and sharing my knowledge with others as publicly as possible.**Communicatively strong person always looking ahead in the future**
 
-- 👨‍💻 Ask me about anything and everything. [I will be happy to help!](I will be happy to help!)
+- 👨‍💻 Ask me about anything and everything.I will be happy to help!
 
 - 📝 Make connections on [https://www.linkedin.com/in/iiashishbiswasii](https://www.linkedin.com/in/iiashishbiswasii)
 
